@@ -17,7 +17,14 @@ python -m venv ./venv
 
 ```
 pip install langchain openai
+
+pip install google-search-results
 ```
+
+### 3. APIs from some platforms
+
+- SERPAPI_API_KEY for Agent Searching. https://serpapi.com/dashboard
+- OPENAI_API_KEY for OpenAI API. https://openai.com
 
 # refs
 
